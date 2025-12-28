@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.4cbda9eb85f242beaf35256f22b246a5",
+  "appName": "UID Validator",
+  "webDir": "dist",
+  "server": {
+    "url": "https://4cbda9eb-85f2-42be-af35-256f22b246a5.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
